@@ -3,9 +3,9 @@ package analyzer
 import (
 	"fmt"
 
-	"gopcp.v2/chapter6/webcrawler/module"
-	"gopcp.v2/chapter6/webcrawler/module/stub"
-	"gopcp.v2/chapter6/webcrawler/toolkit/reader"
+	"github.com/spursy/webcrawler/module"
+	"github.com/spursy/webcrawler/module/stub"
+	"github.com/spursy/webcrawler/toolkit/reader"
 	"gopcp.v2/helper/log"
 )
 

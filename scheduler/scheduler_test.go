@@ -6,9 +6,9 @@ import (
 	"testing"
 	"time"
 
+	"github.com/spursy/webcrawler/module"
+	"github.com/spursy/webcrawler/toolkit/buffer"
 	"gopcp.v2/chapter5/cmap"
-	"gopcp.v2/chapter6/webcrawler/module"
-	"gopcp.v2/chapter6/webcrawler/toolkit/buffer"
 )
 
 // snGen 代表序列号生成器。

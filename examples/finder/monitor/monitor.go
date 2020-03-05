@@ -8,7 +8,7 @@ import (
 	"runtime"
 	"time"
 
-	sched "gopcp.v2/chapter6/webcrawler/scheduler"
+	sched "github.com/spursy/webcrawler/scheduler"
 	"gopcp.v2/helper/log"
 )
 

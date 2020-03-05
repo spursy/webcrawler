@@ -1,6 +1,6 @@
 package downloader
 
-import "gopcp.v2/chapter6/webcrawler/errors"
+import "github.com/spursy/webcrawler/errors"
 
 // genError 用于生成爬虫错误值。
 func genError(errMsg string) error {

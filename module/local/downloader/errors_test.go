@@ -3,7 +3,7 @@ package downloader
 import (
 	"testing"
 
-	"gopcp.v2/chapter6/webcrawler/errors"
+	"github.com/spursy/webcrawler/errors"
 )
 
 func TestErrorGenError(t *testing.T) {

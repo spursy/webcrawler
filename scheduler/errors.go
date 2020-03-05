@@ -1,9 +1,9 @@
 package scheduler
 
 import (
-	"gopcp.v2/chapter6/webcrawler/errors"
-	"gopcp.v2/chapter6/webcrawler/module"
-	"gopcp.v2/chapter6/webcrawler/toolkit/buffer"
+	"github.com/spursy/webcrawler/errors"
+	"github.com/spursy/webcrawler/module"
+	"github.com/spursy/webcrawler/toolkit/buffer"
 )
 
 // genError 用于生成爬虫错误值。

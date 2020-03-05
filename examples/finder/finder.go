@@ -8,9 +8,9 @@ import (
 	"strings"
 	"time"
 
-	lib "gopcp.v2/chapter6/webcrawler/examples/finder/internal"
-	"gopcp.v2/chapter6/webcrawler/examples/finder/monitor"
-	sched "gopcp.v2/chapter6/webcrawler/scheduler"
+	lib "github.com/spursy/webcrawler/examples/finder/internal"
+	"github.com/spursy/webcrawler/examples/finder/monitor"
+	sched "github.com/spursy/webcrawler/scheduler"
 	"gopcp.v2/helper/log"
 )
 

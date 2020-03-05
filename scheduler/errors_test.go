@@ -4,9 +4,9 @@ import (
 	"errors"
 	"testing"
 
-	werrors "gopcp.v2/chapter6/webcrawler/errors"
-	"gopcp.v2/chapter6/webcrawler/toolkit/buffer"
-	"gopcp.v2/chapter6/webcrawler/module"
+	werrors "github.com/spursy/webcrawler/errors"
+	"github.com/spursy/webcrawler/module"
+	"github.com/spursy/webcrawler/toolkit/buffer"
 )
 
 func TestErrorGen(t *testing.T) {

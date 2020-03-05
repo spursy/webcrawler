@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"sync/atomic"
 
-	"gopcp.v2/chapter6/webcrawler/errors"
-	"gopcp.v2/chapter6/webcrawler/module"
+	"github.com/spursy/webcrawler/errors"
+	"github.com/spursy/webcrawler/module"
 	"gopcp.v2/helper/log"
 )
 

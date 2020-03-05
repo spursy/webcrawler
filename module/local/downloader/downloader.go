@@ -3,8 +3,8 @@ package downloader
 import (
 	"net/http"
 
-	"gopcp.v2/chapter6/webcrawler/module"
-	"gopcp.v2/chapter6/webcrawler/module/stub"
+	"github.com/spursy/webcrawler/module"
+	"github.com/spursy/webcrawler/module/stub"
 	"gopcp.v2/helper/log"
 )
 
